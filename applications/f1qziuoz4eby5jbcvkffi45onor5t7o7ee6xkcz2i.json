@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1qziuoz4eby5jbcvkffi45onor5t7o7ee6xkcz2i",
+  "Issue Number": "1",
+  "Client": {
+    "Name": "the  Low Frequency Cosmology lab",
+    "Region": "Australia",
+    "Industry": "Professional Services (Legal, Consulting, Advising)",
+    "Website": "http://loco.lab.asu.edu/",
+    "Social Media": "http://loco.lab.asu.edu/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Hashlong（https://hashlong.com/）was established in 2021 and is the world's first NFT computing power platform. We provide technical services and computing power sales for BTC, FIL, Aleo, SMH and other projects. We participated in the Filecoin project in 2021 and made some investment and research and development, and we very much want to help contribute to Filecoin's data applications.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Observations with the Murchison Widefield Array, a Square Kilometer Array (SKA) precursor in Western Australia. This particular dataset is from the Epoch of Reionization project to detect signatures of the first stars and galaxies forming and the effect of these early stars and galaxies on the evolution of the universe, a key science driver of the SKA. Nearly 2PB of such observations have been recorded to date, this is is a small subset of that which has been exported from the MWA data archive in Perth.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "s3://mwapublic/uvfits/4.1\r\ns3://mwapublic/uvfits/5.1",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "1.5 to 2 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Australia (continent)",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server, IPFS, Others",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f0427989 | Qingdao, Shandon\r\nf01928097 Hong Kong\r\nf02942808 | Jiangmen, Guangdong\r\nf02951213 | Singapore\r\nf02238701 | US",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "2PiB",
+    "Replicas": 6,
+    "Weekly Allocation": "500TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-06-13 14:28:15.450266333 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1qziuoz4eby5jbcvkffi45onor5t7o7ee6xkcz2i",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
